@@ -33,4 +33,3 @@ Deploy smart contract with truffle migrate
 
 Launch backend using runServer.bat
 
-Access UI at http://127.0.0.1:8000/index.html
